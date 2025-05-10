@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c96351382d672fb41ac4b1c7b8facd81, type: 3}
+  m_Name: LevelData 4
+  m_EditorClassIdentifier: 
+  levelNumber: 4
+  levelName: Oceanic Abyss
+  previewSprite: {fileID: 21300000, guid: 32380ab303683b54eb382b5f42df787e, type: 3}
+  backgroundSprite: {fileID: 21300000, guid: dd0e50fefb34dea41954323b87ae6fb4, type: 3}
+  obstacleColor: {r: 0, g: 0.87843144, b: 0.9568628, a: 1}
+  backgroundClip: {fileID: 8300000, guid: 56ab3896dac04ca4488da097a5998ace, type: 3}

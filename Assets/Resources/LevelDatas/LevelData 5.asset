@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c96351382d672fb41ac4b1c7b8facd81, type: 3}
+  m_Name: LevelData 5
+  m_EditorClassIdentifier: 
+  levelNumber: 5
+  levelName: Canyon of Titans
+  previewSprite: {fileID: 21300000, guid: 3daa69aebddfa2746b8aa26d6e125632, type: 3}
+  backgroundSprite: {fileID: 21300000, guid: 8ebf447b0d80e2b49a576d4116b5ef80, type: 3}
+  obstacleColor: {r: 0, g: 0.7843138, b: 0.12941177, a: 1}
+  backgroundClip: {fileID: 8300000, guid: de6e674bd24fd0646ab183cc82df1dc0, type: 3}
